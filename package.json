@@ -1,0 +1,25 @@
+{
+  "name": "senya",
+  "version": "0.1.0",
+  "description": "Minimalistic Hyper theme inspired by old-fashioned hobbies.",
+  "author": "sobolevn <mail@sobolevn.me>",
+  "license": "MIT",
+  "repository": "https://github.com/sobolevn/senya",
+  "bugs": {
+    "url": "https://github.com/sobolevn/senya/issues"
+  },
+  "main": "src/index.js",
+  "keywords": [
+    "hyper",
+    "hyper.is",
+    "hyper.app",
+    "hyper-theme",
+    "hyper-light-theme",
+    "hyperterm",
+    "minimal",
+    "theme",
+    "ui",
+    "terminal",
+    "zeit"
+  ]
+}
