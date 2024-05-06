@@ -19,5 +19,10 @@ exports.computeCSS = (config) => {
     .search-container .search-box:focus-within {
       outline: white solid 1px;
     }
+
+    /* hyper-search support */
+    .search-box {
+      font-family: monospace;
+    }
   `
 }
