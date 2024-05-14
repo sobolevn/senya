@@ -18,6 +18,9 @@ Core features:
 hyper i senya
 ```
 
+There's no extra configuration for this theme.
+But, it supports and respects all the default Hyper's configuration.
+
 
 ## Showcase
 

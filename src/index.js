@@ -54,7 +54,7 @@ exports.decorateConfig = (config) => {
       'lightBlack': '#0A0E14',
       'lightRed': 'rgb(227, 10, 23)',
       'lightGreen': 'rgb(33, 215, 38)',
-      'lightYellow': 'rgb(229, 228, 49)',
+      'lightYellow': 'rgb(222, 120, 11)',
       'lightBlue': 'rgb(11, 38, 251)',
       'lightMagenta': 'rgb(227, 35, 227)',
       'lightCyan': 'rgb(39, 229, 228)',
