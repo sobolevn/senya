@@ -35,7 +35,7 @@ Default:
 ![search](https://raw.githubusercontent.com/sobolevn/senya/master/media/search.png)
 
 It is recommened to use [`hyper-search`](https://github.com/jaanauati/hyper-search).
-With `hyper-seach`:
+With `hyper-search`:
 
 ![hyper-search](https://raw.githubusercontent.com/sobolevn/senya/master/media/hyper-search.png)
 
